@@ -1,0 +1,14 @@
+
+
+ RA-FINAL BURN ALPHA
+
+ This is a stand-alone Mod of SuperrSonic core. 
+ -----
+ I have left my .cfg files in case you want the emulator pre-configured. 
+ -----
+ FB_ALPHA core is the default core when booting the emulaotr.
+
+ PGM & PSIKYO cores are included for use of those games. Simply load
+ core like you normally would. 
+
+ ===========================================================
