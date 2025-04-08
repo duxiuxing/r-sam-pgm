@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ConsoleConfigs
+    bios_file="pgm.zip"
+    ra_configs_file="retroarch.xml"
+    rom_extension=".zip"
+    website="https://github.com/R-Sam-1980/pgm"
+    wiiflow_plugin_name="FBA_PGM"
+/>

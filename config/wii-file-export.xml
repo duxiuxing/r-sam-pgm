@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WiiFileExporter description="导出到 Wii SD 卡的文件">
+    <WiiRA_SS_App name="RA-SS PGM" folder="ra-pgm">
+    </WiiRA_SS_App>
+    <WiiRA_SS_App name="Knights of Valour" folder="ra-kov" rom_title="kov">
+        <Wad src="wii\wad\kov\Knights of Valour [SXFQ]-S.wad" />
+        <Wad src="wii\wad\kov\Knights of Valour [SXFQ]-W.wad" />
+    </WiiRA_SS_App>
+    <WiiRA_SS_App name="Knights of Valour Plus" folder="ra-kovplus" rom_title="kovplus">
+        <Wad src="wii\wad\kovplus\Knights of Valour+ [SWND]-S.wad" />
+        <Wad src="wii\wad\kovplus\Knights of Valour+ [SWND]-W.wad" />
+    </WiiRA_SS_App>
+    <!--
+    <Folder
+        src="wii\wiiflow\boxcovers\blank_covers"
+        dst="wiiflow\boxcovers\blank_covers"
+    />
+    <Folder
+        src="wii\wiiflow\cache\blank_covers"
+        dst="wiiflow\cache\blank_covers"
+    />
+    <Folder
+        src="wii\wiiflow\plugins"
+        dst="wiiflow\plugins"
+    />
+    <Folder
+        src="wii\wiiflow\plugins_data"
+        dst="wiiflow\plugins_data"
+    />
+    <Folder
+        src="wii\wiiflow\source_menu"
+        dst="wiiflow\source_menu"
+    />
+    -->
+</WiiFileExporter>

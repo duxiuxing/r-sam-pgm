@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RomExportConfigs description="使用 FB Alpha 2012 PGM 核心加载的游戏"
+    dst_folder="Games\Arcade (FB Alpha 2012 PGM)" one_folder_one_rom="true">
+    <Rom crc32="7F314E71" bytes="23081719"
+        title="kov"
+        en="Knights of Valour"
+        zhcn="S - 三国战纪"
+    />
+    <Rom crc32="56D86C6E" bytes="23094690"
+        title="kovplus"
+        en="Knights of Valour Plus"
+        zhcn="S - 三国战纪 Plus"
+    />
+</RomExportConfigs>

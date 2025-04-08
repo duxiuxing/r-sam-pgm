@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201812061554" games="6" />
+	<game name="Knights of Valour">
+		<id>149846</id>
+		<locale lang="EN">
+			<title>Knights of Valour</title>
+			<synopsis>A very good beat-'em-up with lots of special moves and great artwork.</synopsis>
+			<genre>Beat'em All</genre>
+		</locale>
+		<locale lang="ES">
+			<synopsis>Knights of Valor (Sangoku Senki en Japón) es un beat inspirado en la Historia de los Tres Reinos de China. El juego ofrece elegir entre 5 personajes con variadas características. Durante la progresión, es posible recoger y almacenar varios objetos, como proyectiles o bombas. La puntuación también sirve como un contador de experiencia, permitiendo a los personajes ver cómo mejoran sus habilidades durante el juego.</synopsis>
+			<genre>Combate / 2.5D,Combate</genre>
+		</locale>
+		<locale lang="FR">
+			<synopsis>Knights of Valour (Sangoku Senki au Japon) est un beat them all s'inspirant de l'Histoire des Trois Royaumes de Chine. Le jeu propose de choisir entre 5 personnages aux caractéristiques variées. Lors de la progression, il est possible de ramasser et de stocker divers objets, tels que des projectiles ou des bombes. Le score sert également de compteur de points d'expérience, permettant aux personnages de voir leurs aptitudes s'améliorées au cours de la partie.</synopsis>
+			<genre>Combat / 2.5D,Combat</genre>
+		</locale>
+		<locale lang="DE">
+			<genre>Kampf / 2.5D,Kampf</genre>
+		</locale>
+		<locale lang="PT">
+			<genre>Luta / 2.5D,Luta</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>三国战纪</title>
+			<genre>清版动作</genre>
+		</locale>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<date year="1999" month="" day="" />
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Knights of Valour Plus">
+		<id>149449</id>
+		<locale lang="EN">
+			<title>Knights of Valour Plus</title>
+			<synopsis>A very good beat-'em-up with lots of special moves and great artwork.</synopsis>
+			<genre>Beat'em All</genre>
+		</locale>
+		<locale lang="ES">
+			<genre>Combate / 2.5D,Combate</genre>
+		</locale>
+		<locale lang="FR">
+			<genre>Combat / 2.5D,Combat</genre>
+		</locale>
+		<locale lang="DE">
+			<genre>Kampf / 2.5D,Kampf</genre>
+		</locale>
+		<locale lang="PT">
+			<genre>Luta / 2.5D,Luta</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>三国战纪 Plus</title>
+			<genre>清版动作</genre>
+		</locale>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<date year="1999" month="" day="" />
+		<rating type="NOTE" value="">
+		</rating>
+		<input players="4">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+</datafile>
